@@ -1,0 +1,24 @@
+{
+    "prefix": "!",
+    "cor": "#36393f",
+    "token": "NzEyMDM2MDE0NTgyOTIzMjk2.XsLtNg.NhbwZlYkg0cTL1WrrydfqqhwqYI",
+    "db": "your mongo db link goes here",
+    "ownerID": "565556135722221589",
+    "reportsChannel": "768808102266535957",
+    "greetingChannel": "768808070024265728",
+    "guildID": "768627672833458227",
+    "rulesChannel": "768808071039942728",
+    "logChannel": "768808101813026816",
+    "punishChannel": "768808079365242930",
+    "youtube": "your yt api key goes here",
+    "newsChannel": "768808074386341909",
+    "partnerChannel": "770891995005583381",
+    "command": {
+        "prefix": "/",
+        "cooldown": 5000
+    },
+    "channel": {
+        "commands": "768808090413301821",
+        "greeting": "768808070024265728"
+    }
+}
